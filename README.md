@@ -34,7 +34,13 @@
 ### Perform these calculation either on a new column or new measure( callout the function sumx followed by the table title and perform the calculations)
 
 
-### Data Visualization (Visualize the data to gain insights)
+### Data Visualization (Visualize the data to gain insights):
+### Product sold between jan and dec 2014 showing number of sales,sales proportion and financial performance
+### The analysis will be used to determine whether there is growth or decline on any product lines
+### What key product are the drivers of performance
+### Any product we would like to discontinue due to poor outcome
+### what product do we pay the highest tax on
+
 ### Refine canvas (background, width and height)
 ### Select the right chart type e.g bar chart(compare categories), line chart(shows trend), pie chart(display proportion)
 ### Format charts using the format pane
